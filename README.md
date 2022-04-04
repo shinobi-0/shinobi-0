@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shinobi-0
+- 👋 Hi, I’m Vishal Raj / @shinobi-0
 - 👀 I’m interested in Cooking, Anime & Travelling
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on python projects
